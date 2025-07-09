@@ -1,3 +1,6 @@
+# ⚠️ Archived Repository
+This repository is no longer maintained and has been archived.
+
 # <img src="docs/assets/precise-logo.svg" width="240">
 
 [![Build CI](https://github.com/ZEISS/precise-ui/actions/workflows/build.yml/badge.svg?event=push)](https://github.com/ZEISS/precise-ui/actions/workflows/build.yml)
